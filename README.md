@@ -27,3 +27,5 @@ Transformations
 Output Data Frame
 -----------------------------
 transaction_id, total_amount, most_recent_transaction_date
+
+/!\ : Must Activate Virtual Env to execute pyspark script
