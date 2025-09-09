@@ -1,4 +1,4 @@
-Write a Python script to load sample data into a data frame, perform transformations to the data,
+Write a pyspark script to load sample data into a data frame, perform transformations to the data,
 and to display the data frame to the console as in the format shown below.
 --------------------------------
 
